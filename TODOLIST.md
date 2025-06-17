@@ -3,19 +3,19 @@
 ## 1. Configuración Inicial
 
 ### 1.1 Setup del Proyecto
-- [ ] Crear estructura de carpetas (desktop-app/, backend/)
-- [ ] Crear README.md del proyecto
+- [X] Crear estructura de carpetas (desktop-app/, backend/)
+- [X] Crear README.md del proyecto
 
 ### 1.2 Configuración Desktop App (Electron)
-- [ ] Inicializar proyecto Electron con TypeScript
-- [ ] Configurar estructura básica (main, renderer, preload)
-- [ ] Instalar dependencias para audio (node-record-lpcm16 o similar)
-- [ ] Configurar empaquetado para Windows/Mac/Linux
+- [X] Inicializar proyecto Electron con TypeScript
+- [X] Configurar estructura básica (main, renderer, preload)
+- [X] Instalar dependencias para audio (node-record-lpcm16 o similar)
+- [X] Configurar empaquetado para Windows/Mac/Linux
 
 ### 1.3 Configuración Backend (FastAPI)
-- [ ] Crear proyecto FastAPI mínimo
-- [ ] Configurar cliente de OpenAI para Whisper
-- [ ] Crear endpoint único para transcripción
+- [X] Crear proyecto FastAPI mínimo
+- [X] Configurar cliente de OpenAI para Whisper
+- [X] Crear endpoint único para transcripción
 
 ## 2. Sistema de Captura de Voz
 
